@@ -4,7 +4,7 @@
 
 
 **Computer Engineering** graduate from the **University of New Mexico**. 🎓 Took a break from the field to pursue my dreams as a professional mixed martial artist (cage fighting). 🥊 
-Now retired from fighting, I'm looking to renew my love for all things tech. 👨‍💻
+Now retired from fighting, I've renewed my love for all things tech. 👨‍💻
 
 
 <details>
