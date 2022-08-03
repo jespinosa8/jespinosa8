@@ -1,4 +1,4 @@
-<h1> Hi there, I am <a href="https://github.com/statechamp103">Jordan</a> <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></h1>
+<h1> Hey there, I'm <a href="https://github.com/statechamp103">Jordan</a> <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></h1>
 
 ## About Me 💬
 
