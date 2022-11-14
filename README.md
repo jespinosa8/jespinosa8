@@ -15,7 +15,6 @@ Now retired from fighting, I've renewed my love for all things tech. 👨‍💻
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/106277062/182477737-13dc695e-ea0a-44cd-b50b-60a66b13194f.png"/></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/106277062/182478103-34aba196-356e-498c-a06f-6807e3127bae.png"/></code>
 <br>
 </details>
 
