@@ -13,7 +13,7 @@ Currently, looking for opportunities to build my skills and kickstart my career 
 <br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">JS</code>
 <code><img height="30" src="https://user-images.githubusercontent.com/106277062/182477015-043e6895-c9f8-4cde-8e9d-bf1074c4be2b.png">Node.js</code>
-<code><img height="30" src="https://blog.eduonix.com/wp-content/uploads/2015/11/Express-JS-101.png">Express.js</code>
+<code><img height="30" src="https://blog.eduonix.com/wp-content/uploads/2015/11/Express-JS-101.png">Express</code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">HTML</code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4">CSS</code>
 <code><img height="30" src="https://user-images.githubusercontent.com/106277062/182477737-13dc695e-ea0a-44cd-b50b-60a66b13194f.png">SQLite</code>
