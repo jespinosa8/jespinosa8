@@ -4,7 +4,7 @@
 
 
 **Computer Engineering** graduate from the **University of New Mexico**. 🎓 Took a break from the field to pursue my dreams as a professional mixed martial artist (cage fighting). 🥊 
-Now retired from fighting, I've renewed my love for all things tech. 👨‍💻
+Now retired from MMA, I've renewed my love for all things tech. 👨‍💻
 Currently, looking for opportunities to build my skills and kickstart my career as a back-end software engineer.
 
 ## Skills 👨🏽‍💻
@@ -29,6 +29,9 @@ Currently, looking for opportunities to build my skills and kickstart my career 
 - Ping-Pong 🏓
 - Ultimate Frisbee 🥏️ 
 - Greenbay Packers 🏈🧀 
+
+
+🔭 I’m currently working on my pizza manager application (Pinned below).
 
 
 
