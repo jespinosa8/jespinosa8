@@ -7,7 +7,7 @@
 Now retired from fighting, I've renewed my love for all things tech. 👨‍💻
 Currently, looking for opportunities to build my skills and kickstart my career as a back-end software engineer.
 
-
+## Skills 👨🏽‍💻
 <details>
 <summary>Languages & Tech ⚙️</summary>
 <br>
@@ -17,7 +17,9 @@ Currently, looking for opportunities to build my skills and kickstart my career 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">HTML</code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4">CSS</code>
 <code><img height="30" src="https://user-images.githubusercontent.com/106277062/182477737-13dc695e-ea0a-44cd-b50b-60a66b13194f.png">SQLite</code>
-<code><img height="30" src="https://smyl.es/wurdp/assets/mongodb.png">MongoDB</code>
+<code><img height="30" src="https://smyl.es/wurdp/assets/mongodb.png">MongoDB</code> 
+<code><img height="30" src="https://build.rubrik.com/wp-content/uploads/2020/04/postman-logo.png">Postman</code>
+ 
 <br>
 </details>
 
