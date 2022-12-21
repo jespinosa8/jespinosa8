@@ -30,9 +30,16 @@ Currently, looking for opportunities to build my skills and kickstart my career 
 - Ultimate Frisbee 🥏️ 
 - Greenbay Packers 🏈🧀 
 
+<br>
+
+
+
+
 ⚡ Fun Fact: Former Top 10 UFC flyweight 🥋
 
-<br> 🔭 I’m currently working on my pizza manager application (Pinned below).</br>
+
+
+<br> 🔭 I’m currently working on my pizza manager application (Pinned below).
 
 
 <!--
