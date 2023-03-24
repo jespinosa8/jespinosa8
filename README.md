@@ -40,7 +40,7 @@ Currently, looking for opportunities to build my skills and kickstart my career 
 
 
 
-<br> 🔭 I’m currently working on my pizza manager application (Pinned below).
+<br> 🔭 I’m currently working on my Scribbly note-taking application (Pinned below).
 
 
 <!--
