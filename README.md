@@ -40,9 +40,6 @@ Currently, looking for opportunities to build my skills and kickstart my career 
 
 
 
-<br> 🔭 I’m currently working on my Scribbly note-taking application (Pinned below).
-
-
 <!--
 **statechamp103/statechamp103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
