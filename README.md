@@ -5,7 +5,7 @@
 
 **Computer Engineering** graduate from the **University of New Mexico**. 🎓 Took a break from the field to pursue my dreams as a professional mixed martial artist (cage fighting). 🥊 
 Now retired from MMA, I've renewed my love for all things tech. 👨‍💻
-Currently, looking for opportunities to build my skills and kickstart my career as a back-end software engineer.
+Currently, I am working as an Associate Java Developer with SkillStorm.
 
 ## Skills 👨🏽‍💻
 <details>
