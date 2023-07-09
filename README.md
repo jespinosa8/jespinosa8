@@ -11,6 +11,8 @@ Currently, I am working as an Associate Java Full-Stack Developer with SkillStor
 <details>
 <summary>Languages & Tech ⚙️</summary>
 <br>
+<code><img height="30" src="https://e7.pngegg.com/pngimages/405/878/png-clipart-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text.png">Java</code>
+<code><img height="30" src="https://www.pngaaa.com/detail/2459546">Spring Boot</code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">JS</code>
 <code><img height="30" src="https://user-images.githubusercontent.com/106277062/182477015-043e6895-c9f8-4cde-8e9d-bf1074c4be2b.png">Node.js</code>
 <code><img height="30" src="https://i0.wp.com/totheinnovation.com/wp-content/uploads/2022/02/react.png">React</code>
