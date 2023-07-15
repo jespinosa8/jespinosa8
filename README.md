@@ -5,7 +5,7 @@
 
 **Computer Engineering** graduate from the **University of New Mexico**. 🎓 Took a break from the field to pursue my dreams as a professional mixed martial artist (cage fighting). 🥊 
 Now retired from MMA, I've renewed my love for all things tech. 👨‍💻
-Currently, I am working as an Associate Java Full-Stack Developer with SkillStorm.
+Currently, I am working as Java Full-Stack Developer with SkillStorm.
 
 ## Skills 👨🏽‍💻
 <details>
@@ -19,6 +19,7 @@ Currently, I am working as an Associate Java Full-Stack Developer with SkillStor
 <code><img height="30" src="https://blog.eduonix.com/wp-content/uploads/2015/11/Express-JS-101.png">Express</code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">HTML</code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4">CSS</code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png">PostgreSQL</code>
 <code><img height="30" src="https://user-images.githubusercontent.com/106277062/182477737-13dc695e-ea0a-44cd-b50b-60a66b13194f.png">SQLite</code>
 <code><img height="30" src="https://smyl.es/wurdp/assets/mongodb.png">MongoDB</code> 
 <code><img height="30" src="https://www.svgrepo.com/show/354202/postman-icon.svg">Postman</code>
